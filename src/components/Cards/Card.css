@@ -1,0 +1,12 @@
+.title-project{
+    background: linear-gradient(180deg, #FF8660 0%, #D5491D 100%);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.project-title{
+    background: var(--Card-Color, rgba(42, 42, 42, 1));
+
+}
+.back-pic{
+  
+}
